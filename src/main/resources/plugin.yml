@@ -1,4 +1,4 @@
 name: BreakBlocks-Minigame
 version: '${project.version}'
-main: it.binarycodee.BreakBlocks_Minigame
+main: it.binarycodee.Minigame
 api-version: '1.13'
