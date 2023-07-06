@@ -1,5 +1,5 @@
 As of July 5, 2023 BreakBlocks-Minigame by BinaryCodee becomes open source. If you are a developer, I would appreciate it if you would make pull requests instead of creating hundreds of forks. Let's make updates available for everyone!
-[![Discord](https://discordapp.com/api/guilds/1111021292536205343/widget.png?style=shield)](https://discord.gg/urxqAjwtyj)
+[![Discord](https://discord.gg/urxqAjwtyj)
 
 # Description
 BreakBlocks is a mini-game in which you have to destroy as many blocks as possible to earn more points, climb the leaderboard and be the best on the server.  
@@ -59,7 +59,7 @@ will change all chat messages, language-to-language configuration and more to hi
 Any help is appreciated
 
 # Contact
-[![Discord](https://discordapp.com/api/guilds/1111021292536205343/widget.png?style=shield)](https://discord.gg/urxqAjwtyj)
+[![Discord](https://discord.gg/urxqAjwtyj)
 
 # Developed with
 [<img src="https://user-images.githubusercontent.com/21148213/121807008-8ffc6700-cc52-11eb-96a7-2f6f260f8fda.png" alt="" width="150">](https://www.jetbrains.com)
