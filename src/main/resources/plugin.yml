@@ -1,0 +1,4 @@
+name: BreakBlocks-Minigame
+version: '${project.version}'
+main: it.binarycodee.BreakBlocks_Minigame
+api-version: '1.13'
